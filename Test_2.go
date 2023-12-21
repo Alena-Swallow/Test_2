@@ -1,4 +1,4 @@
-// You can edit this code!
+/ You can edit this code!
 // Click here and start typing.
 package main
 
@@ -18,3 +18,4 @@ func main() {
 	pair := Pair{a, b}
 	sum := pair.calcSum()
 	fmt.Printf("Сумма %d и %d равна %d\n", pair.a, pair.b, sum)
+}
