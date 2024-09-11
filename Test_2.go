@@ -1,5 +1,4 @@
-/ You can edit this code!
-// Click here and start typing.
+// Спасибо нейронкам, что  научили кодить на голенге!
 package main
 
 import "fmt"
